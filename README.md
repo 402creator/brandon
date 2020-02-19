@@ -4,7 +4,7 @@ Create a Broncos themed basic page to display their scores for the year.
 
 ## Theme
 
-* Use black "Open Sans" font for standard text (and typography)
+* Use black "Open Sans" font for standard text (and typography). You can get this from google fonts, you'll figure it out!
 * Use Broncos orange and blue colors for other things on the page
 * Add some Broncos images, etc
 
